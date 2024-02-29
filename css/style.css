@@ -1,0 +1,15 @@
+body { 
+    background-color: aqua;
+}
+
+hr {
+    border-top: 2px solid rgb(216, 214, 214);
+}
+
+h1 {
+    color: rgb(25, 25, 95);
+}
+
+h2 {
+    color: rgb(25, 25, 95);;
+}
